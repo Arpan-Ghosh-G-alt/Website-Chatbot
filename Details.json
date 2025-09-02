@@ -1,0 +1,34 @@
+{
+  "App Development": {
+    "Mobile App Development": "Creating applications for smartphones and tablets with focus on usability, design, and performance. Includes both native and hybrid approaches.",
+    "Android App Development": "Building apps specifically for Android devices using Java, Kotlin, and Android SDK. Offers compatibility across multiple device types.",
+    "iOS App Development": "Developing apps for iPhones and iPads using Swift or Objective-C, optimized for Apple’s ecosystem.",
+    "React Native Development": "Cross-platform app development using JavaScript and React Native, allowing apps to run on both Android and iOS with shared code.",
+    "Hybrid App Development": "Apps built with frameworks like Ionic or Flutter that combine web and native elements for multi-platform support with lower cost."
+  },
+  "Web Solutions": {
+    "Website Design": "Designing visually appealing, user-friendly, and responsive websites tailored to client needs.",
+    "Web Application Development": "Creating dynamic and interactive web-based applications with custom features using technologies like PHP, Node.js, or Python.",
+    "Small Business Website": "Affordable and simple websites for small businesses to build an online presence, often with essential pages and contact forms."
+  },
+  "Design & Branding": {
+    "Brand Identity": "Developing a company’s unique image, including logos, colors, and visual elements that represent its values and mission.",
+    "Logo Design": "Creating a custom logo that reflects the business identity and communicates its purpose effectively.",
+    "Corporate Identity": "A consistent style guide for all company materials, including stationery, presentations, and internal documents.",
+    "Brochure Design": "Designing printed or digital brochures to showcase services, products, or events in an engaging format.",
+    "Explainer Video": "Short animated or live-action videos that explain products or services simply and engagingly.",
+    "Content Writing": "Writing SEO-optimized, clear, and engaging content for websites, blogs, and marketing campaigns."
+  },
+  "eCommerce Development": {
+    "eCommerce Website Design": "Creating secure and scalable online stores with features like product catalogs, carts, payments, and order tracking.",
+    "eCommerce App": "Mobile apps for online shopping with smooth navigation, secure transactions, and personalized customer experience."
+  },
+  "Marketing & Lead Generation": {
+    "Digital Marketing": "Promoting businesses online using SEO, SEM, email, and paid ads for maximum reach.",
+    "SEO Services": "Improving website visibility on search engines through keyword optimization, backlinks, and technical SEO.",
+    "Social Media Marketing": "Managing and growing brand presence on platforms like Facebook, Instagram, and LinkedIn.",
+    "PPC Management": "Pay-per-click advertising campaigns on Google or social platforms to drive targeted traffic.",
+    "Local SEO": "Optimizing for location-based searches so businesses appear in local results (e.g., Google Maps).",
+    "Content Marketing Services": "Creating and distributing valuable content (blogs, guides, videos) to attract and engage potential customers."
+  }
+}
